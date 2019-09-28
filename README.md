@@ -2,7 +2,7 @@
 
 Bot Matrix pour prevenir que le FUZ (hackerspace) est ouvert.
 
-![demo](demo.png | width=100)
+<img src="demo.png" alt="demo" width="100"/>
 
 ---
 
