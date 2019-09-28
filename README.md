@@ -2,12 +2,14 @@
 
 Bot Matrix pour prevenir que le FUZ (hackerspace) est ouvert.
 
+![demo](demo.png)
+
 ---
 
 Commandes:
 
 ```
-!open # Prevenir que le hackerspace est ouvert
+!open [informations] # Prevenir que le hackerspace est ouvert avec potentiellement un message
 !close # Prevenir que le hackerspace est ferme (automatique apres 8 heures)
 !up? # Savoir si le hackerspace est ouvert
 ```
